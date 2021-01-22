@@ -1,0 +1,25 @@
+﻿生成启动时间为 2021/1/7 20:57:26。
+     1>项目“E:\c\code\test_01_07\test_01_07\test_01_07.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test_01_07.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\c\code\test_01_07\test_01_07\test.c(183): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>e:\c\code\test_01_07\test_01_07\test.c(185): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c\code\test_01_07\test_01_07\test.c(186): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(186): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(186): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(190): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(195): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(202): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(202): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(202): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(206): error C2065: “i”: 未声明的标识符
+     1>e:\c\code\test_01_07\test_01_07\test.c(211): error C2065: “i”: 未声明的标识符
+     1>已完成生成项目“E:\c\code\test_01_07\test_01_07\test_01_07.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.10
