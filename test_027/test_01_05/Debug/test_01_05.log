@@ -1,0 +1,24 @@
+﻿生成启动时间为 2021/1/5 19:08:29。
+     1>项目“E:\c\code\test_01_05\test_01_05\test_01_05.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(298): error C2143: 语法错误 : 缺少“;”(在“}”的前面)
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(301): error C2552: “s”: 不能用初始值设定项列表初始化非聚合
+                 “test3::Stu”: 不聚合带用户定义的构造函数的类型
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(301): error C2552: “s”: 不能用初始值设定项列表初始化非聚合
+                 “test3::Stu”: 不聚合带用户定义的构造函数的类型
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(301): error C2552: “s”: 不能用初始值设定项列表初始化非聚合
+                 “test3::Stu”: 不聚合带用户定义的构造函数的类型
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(302): error C2070: “test3::Stu [3]”: 非法的 sizeof 操作数
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(302): error C2036: “test3::Stu *”: 未知的大小
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(302): error C2027: 使用了未定义类型“test3::Stu”
+                 e:\c\code\test_01_05\test_01_05\test.cpp(301) : 参见“test3::Stu”的声明
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(304): error C2036: “test3::Stu *”: 未知的大小
+     1>e:\c\code\test_01_05\test_01_05\test.cpp(304): error C2027: 使用了未定义类型“test3::Stu”
+                 e:\c\code\test_01_05\test_01_05\test.cpp(301) : 参见“test3::Stu”的声明
+     1>已完成生成项目“E:\c\code\test_01_05\test_01_05\test_01_05.vcxproj”(ClCompile 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.34
