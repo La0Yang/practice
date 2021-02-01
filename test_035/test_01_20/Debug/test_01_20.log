@@ -1,0 +1,33 @@
+﻿生成启动时间为 2021/1/20 18:12:16。
+     1>项目“E:\c\code\test_01_20\test_01_20\test_01_20.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\test_01_20.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         E:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt contact.c test.c
+         test.c
+     1>e:\c\code\test_01_20\test_01_20\test.c(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+         contact.c
+     1>e:\c\code\test_01_20\test_01_20\contact.c(76): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c\code\test_01_20\test_01_20\contact.c(79): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(87): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(101): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c\code\test_01_20\test_01_20\contact.c(102): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(111): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(112): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(113): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(114): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(115): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(124): error C2143: 语法错误 : 缺少“;”(在“类型”的前面)
+     1>e:\c\code\test_01_20\test_01_20\contact.c(125): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(132): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(134): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(136): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(138): error C2065: “pos”: 未声明的标识符
+     1>e:\c\code\test_01_20\test_01_20\contact.c(140): error C2065: “pos”: 未声明的标识符
+         正在生成代码...
+     1>已完成生成项目“E:\c\code\test_01_20\test_01_20\test_01_20.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.12
