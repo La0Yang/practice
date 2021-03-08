@@ -1,0 +1,12 @@
+﻿生成启动时间为 2021/2/7 15:37:32。
+     1>项目“E:\c\code\test_02_07\test_02_07\test_02_07.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         E:\c\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>e:\c\code\test_02_07\test_02_07\test.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\c\vc\include\stdio.h(304) : 参见“scanf”的声明
+     1>已完成生成项目“E:\c\code\test_02_07\test_02_07\test_02_07.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.49
